@@ -8,6 +8,9 @@ export default {
 }
 </script>
 
-<style scoped>
 
+<style scoped>
+  div {
+    height: 200vh;
+  }
 </style>
